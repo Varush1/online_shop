@@ -1,26 +1,27 @@
 # Problem Statement
 
+Based on the problem statement,
+Here’s a README.md file for your Node.js application that provides clear instructions on running the application.
+---
+
+## Prerequisites
+
+Ensure you have the following installed on your system:
+
+- Docker (Install from here)
+- Git (Install from here)
+If hosting on a cloud server, make sure port 3000 is allowed in your Security inbound rules.
 
 ---
 
-## Important Dates
-
-- **Hackathon Start Date:** 20th Feb, 9:00 AM
-- **Hackathon End Date:** 21st Feb, 9:00 AM
-- **Submission Deadline:** 24 hours after the repository link is shared
-
----
-
-## Table of Contents
-- [Important Dates](#important-dates)
-- [Overview](#overview)
-- [Guidelines & Resources](#guidelines--resources)
-- [Tasks](#tasks)
-- [Submission Instructions](#submission-instructions)
-- [Submission Details for Your Repo README](#submission-details-for-your-repo-readme)
-- [Evaluation Criteria](#evaluation-criteria)
-- [License](#license)
-- [Contact](#contact)
+## Setup Instructions
+- Clone the Repository
+  git clone https://github.com/Varush1/online_shop.git
+  cd online_shop
+- Build Docker Image
+- Run the Container
+- Verify the Container state
+- Access the Application
 
 
 
