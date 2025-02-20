@@ -16,12 +16,16 @@ If hosting on a cloud server, make sure port 3000 is allowed in your Security in
 
 ## Setup Instructions
 - Clone the Repository
-  git clone https://github.com/Varush1/online_shop.git
-  cd online_shop
+  > git clone https://github.com/Varush1/online_shop.git
+  > cd online_shop
 - Build Docker Image
+  > docker build -t online_shopping_app 
 - Run the Container
+  > docker run -p 3000:5173 online_shopping_app
 - Verify the Container state
+  > docker ps
 - Access the Application
+  > Locally: Open http://localhost:3000 in your browser
 
 
 
