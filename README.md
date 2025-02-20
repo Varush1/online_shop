@@ -8,8 +8,8 @@ Here’s a README.md file for your Node.js application that provides clear instr
 
 Ensure you have the following installed on your system:
 
-- Docker (Install from here)
-- Git (Install from here)
+- Docker
+- Git
 If hosting on a cloud server, make sure port 3000 is allowed in your Security inbound rules.
 
 ---
